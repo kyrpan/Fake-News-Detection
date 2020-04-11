@@ -7,3 +7,5 @@ We connect on the Twitter API and gather tweets of two accounts: BBCBreaking (re
 - Graph: number of hops
 
 The results indicate clear patterns that distinguish real and fake news. Each category follows its own distribution of data, and this distribution is different on real vs fake. Some examples can be found in the folder "results".
+
+The Survey examines the information diffusion in Social Networks and what happens in the case of Fake News. The Presentation contains the basic points of the survey, together with the results of our project. 
